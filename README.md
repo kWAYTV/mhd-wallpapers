@@ -1,4 +1,4 @@
-# MHD Wallpaper Downloader
+# MKBHD Wallpaper Downloader
 
 This Go program downloads wallpapers from URLs specified in a JSON file.
 
@@ -11,8 +11,8 @@ This Go program downloads wallpapers from URLs specified in a JSON file.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/mhd-wallpapers.git
-    cd mhd-wallpapers
+    git clone https://github.com/yourusername/mkbhd-wallpapers.git
+    cd mkbhd-wallpapers
     ```
 
 2. Ensure you have a `wallpapers.json` file in the same directory as the `main.go` file.
